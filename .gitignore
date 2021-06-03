@@ -1,6 +1,6 @@
-./node_module/
+node_modules/
 .ABAPDeployResources
-./dist
+dist/
 .env1
 .env2
 .env3
