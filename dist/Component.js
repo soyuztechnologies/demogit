@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/UIComponent"],function(t){"use strict";return t.extend("emc.fin.ar.anubhav.Component",{metadata:{manifest:"json"},init:function(){t.prototype.init.apply(this);var n=this.getRouter();n.initialize()},destroy:function(){}})});
